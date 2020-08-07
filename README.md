@@ -5,7 +5,7 @@ Subject: [corewar.en.pdf](corewar.en.pdf)
 For this project we had to develop a virtual machine where programs fight, an
 assembler that compiles the programs, and some example programs.
 
-I wrote virtual machine and the n-curses visualizer. I've design and develop the project architecture with [Jody Frankowski](https://github.com/jody-frankowski).
+I wrote virtual machine and the n-curses visualizer. I've designed and developed the project architecture with [Jody Frankowski](https://github.com/jody-frankowski).
 
 We used [custom test
 framework](https://github.com/jody-frankowski/42/tree/master/libunit) made by Jody Frankowski for the unit tests.
